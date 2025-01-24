@@ -1,5 +1,5 @@
-# CS50P Final Project
-# Anime Recommendation System
+# CS50P FINAL PROJECT
+## Anime Recommendation System
 
 #### Video Demo: https://youtu.be/cE1XfXkitUI?si=UDAA67-YtVzBG62E
 
